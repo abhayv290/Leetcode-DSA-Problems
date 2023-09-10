@@ -1,4 +1,4 @@
-# I wrote this program for clearing the exe files if you many of them 
+# I wrote this program for clearing the exe files if you have  many of them 
  # you just have to run progarm in the terminal and there you are
 
 
