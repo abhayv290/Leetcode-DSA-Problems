@@ -47,7 +47,7 @@ int main(){
 
 // cout << ch << endl;
 
-// char *c = &ch[0];
+// char *c = &ch[0];    
 // cout << c << " " << *c << endl;
 
 
